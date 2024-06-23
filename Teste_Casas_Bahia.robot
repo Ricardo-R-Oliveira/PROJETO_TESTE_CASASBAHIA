@@ -11,6 +11,7 @@ ${SELECIONAR_ITEM}  id:product-card-72825399
 ${ADICIONA_ITEM_CARRINHO}  xpath=//button[contains(@class, 'vtex-button__label') and contains(text(), 'Adicionar ao carrinho')]
 ${VERIFICA_ITEM_CARRINHO}  id:item-quantity-55064353,16,537579413
 
+
 *** Test Cases ***
 Pesquisar e Adicionar Item ao Carrinho
     Abrir Navegador
