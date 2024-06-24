@@ -22,5 +22,7 @@ git clone https://github.com/Ricardo-R-Oliveira/PROJETO_TESTE_CASASBAHIA.git
 PASSOS PARA EXECUTAR OS TESTES AUTOMATIZADOS:
 
 1 - Ter instalado e configurado o Visual Studio Code
+
 2 - Projeto já baixado do GitHub
+
 3 - Abrir o Visual Studio Code com o projeto que foi baixado e em seguida executar o arquivo Teste_CasasBahia.robot pelo simbolo de "play" da ferramenta que fica no canto superior direito ou abrir um novo terminal e executar o commando "robot Teste_Casas_Bahia.robot"
