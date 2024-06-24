@@ -8,7 +8,7 @@ PRÉ-REQUISITOS PARA EXECUÇÃO DOS TESTES AUTOMATIZADOS:
 
 3 - Abrir um terminal e entrar na pasta que foi criada
 
-4 - Digitar no terminal os comandos abaixo para baixar o projeto público que foi criado no repositório do gitHub:
+4 - Digitar no terminal os comandos abaixo e em seguida pressionar ENTER após a digitação de cada um deles  para baixar o projeto público que foi criado no repositório do gitHub:
 
 git init
 
