@@ -1,6 +1,7 @@
 # Teste Casas Bahia
 Neste projeto foi automatizado os casos de teste principais para a funcionalidade de busca e adicionar itens no carrinho usando uma ferramenta de automação de testes com robotframework, como também iremos passar abaixo as instruções para execução dos testes  que foram automatizados 
-PRÉ-REQUISITOS PARA EXECUÇÃO DOS TESTES AUTOMATIZADOS:
+
+# PRÉ-REQUISITOS PARA EXECUÇÃO DOS TESTES AUTOMATIZADOS:
 
 1 - Ter o Git instalado
 
@@ -19,7 +20,7 @@ git config user.email "seu-email@example.com"
 git clone https://github.com/Ricardo-R-Oliveira/PROJETO_TESTE_CASASBAHIA.git
 
 
-PASSOS PARA EXECUTAR OS TESTES AUTOMATIZADOS:
+# PASSOS PARA EXECUTAR OS TESTES AUTOMATIZADOS:
 
 1 - Ter instalado e configurado o Visual Studio Code
 
