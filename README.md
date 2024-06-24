@@ -26,4 +26,4 @@ git clone https://github.com/Ricardo-R-Oliveira/PROJETO_TESTE_CASASBAHIA.git
 
 2 - Projeto já baixado do GitHub
 
-3 - Abrir o Visual Studio Code com o projeto que foi baixado e em seguida executar o arquivo Teste_CasasBahia.robot pelo simbolo de "play" da ferramenta que fica no canto superior direito ou abrir um novo terminal e executar o commando "robot Teste_Casas_Bahia.robot"
+3 - Iniciar o Visual Studio Code, abrir a pasta do projeto que foi baixado, selecioar o arquivo Teste_Casas_Bahia.robot e em seguida pressionar simbolo de "play" que fica no canto superior direito ou abrir um novo terminal pelo Visual Studio Code (opção "Terminal" e em seguida "New Terminal" na barra superior das opções de menus) e executar o comando "robot Teste_Casas_Bahia.robot"
